@@ -15,7 +15,7 @@ export default function HeroSection() {
                 </ul>
             </div>
             <div>
-                <img src={logo} />
+                <img src={logo} alt="Logo"/>
             </div>
         </div>
     );
